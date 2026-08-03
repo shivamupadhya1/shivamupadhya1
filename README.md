@@ -16,7 +16,7 @@ Building scalable cloud infrastructure and automating everything.
 
 <p align="center">
 
-z<a href="https://www.linkedin.com/in/shivamupadhya1/">
+<a href="https://www.linkedin.com/in/shivamupadhya1/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 
