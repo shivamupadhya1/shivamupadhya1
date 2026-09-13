@@ -1,132 +1,526 @@
-<h1 align="center">
-Hi there 👋, I'm Shivam Upadhayay
-</h1>
+<h1 align="center">Hi 👋, I'm Shivam Upadhyay</h1>
 
 <h3 align="center">
 🚀 DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD
 </h3>
 
 <p align="center">
-Building scalable cloud infrastructure and automating everything.
+<b>Automating infrastructure. Building reliable systems. Solving problems with code.</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🧑‍💻 About Me
+
+I'm a **DevOps Engineer with 2.5+ years of experience** focused on building, automating, deploying, and monitoring cloud infrastructure.
+
+My day-to-day interests revolve around:
+
+* ☁️ Designing and managing **AWS infrastructure**
+* 🏗️ Infrastructure as Code with **Terraform**
+* 🐳 Containerization with **Docker**
+* ☸️ Container orchestration with **Kubernetes**
+* 🔄 Building reliable **CI/CD pipelines**
+* 🔐 Cloud security, IAM, and DevSecOps practices
+* 📊 Monitoring and observability with **Prometheus & Grafana**
+* 🐧 Linux administration and troubleshooting
+* 🤖 Exploring how **Generative AI can improve DevOps workflows**
+
+I believe good DevOps isn't just about knowing tools — it's about understanding **how systems work together, automating repetitive work, troubleshooting failures, and building reliable infrastructure.**
+
+---
+
+## 🎯 What I'm Currently Focused On
+
+```text
+AWS Architecture        ████████████████████░  Hands-on
+Terraform / IaC         ████████████████████░  Hands-on
+Docker                  ████████████████████░  Hands-on
+Kubernetes              ██████████████████░░░  Hands-on
+CI/CD                   ████████████████████░  Hands-on
+Linux                   ████████████████████░  Hands-on
+Monitoring              █████████████████░░░░  Hands-on
+DevSecOps               ███████████████░░░░░░  Learning
+Generative AI + DevOps  ████████████░░░░░░░░░  Exploring
+```
+
+I'm continuously strengthening my **real-world troubleshooting and system-design skills** through hands-on labs and practical DevOps scenarios.
+
+---
+
+# ☁️ AWS & Cloud
+
+I'm particularly interested in designing AWS environments that are **secure, scalable, highly available, and automated**.
+
+### AWS Services & Concepts
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/shivamupadhya1/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://medium.com/@shivamupadhyay1382">
-<img src="https://img.shields.io/badge/Medium-Read%20Blogs-black?style=for-the-badge&logo=medium">
-</a>
-
-<a href="mailto:shivamupadhya100@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white"/>
+<img src="https://img.shields.io/badge/ALB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
 
 </p>
 
+### Networking
+
+* VPC architecture
+* Public & private subnets
+* Route tables
+* Internet Gateway
+* NAT Gateway
+* Security Groups
+* Network ACLs
+* VPC Peering
+* Transit Gateway
+* Load Balancers
+* Target Groups
+* Path-based routing
+* DNS concepts
+
 ---
 
-# 👨‍💻 About Me
+# 🏗️ Infrastructure as Code
 
-- 🔭 DevOps Engineer with 2.5+ Years Experience
-- ☁ AWS Cloud Engineer
-- 🐳 Docker & Kubernetes Enthusiast
-- ⚙ CI/CD Automation using Jenkins & GitHub Actions
-- 🌍 Infrastructure as Code using Terraform
-- 📊 Monitoring using Prometheus & Grafana
-- 🔐 IAM, Security & DevSecOps
-- 🤖 Exploring Generative AI for DevOps
+<p align="center">
+
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+
+</p>
+
+### Terraform
+
+I use Terraform to move infrastructure from:
+
+```text
+Manual Infrastructure
+        ↓
+Infrastructure as Code
+        ↓
+Version Controlled
+        ↓
+Repeatable
+        ↓
+Automated
+```
+
+Areas I work with include:
+
+* Providers
+* Resources
+* Variables
+* Outputs
+* Locals
+* Data Sources
+* Modules
+* State Management
+* Remote State
+* Provisioners
+* Dependency Management
+* AWS Infrastructure Automation
 
 ---
 
-# 🚀 Tech Stack
+# ☸️ Containers & Kubernetes
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+</p>
+
+### Docker
+
+* Dockerfiles
+* Images & Containers
+* Volumes
+* Networks
+* Multi-stage builds
+* Container troubleshooting
+* Docker security
+* Application containerization
+
+### Kubernetes
+
+* Pods
+* Deployments
+* ReplicaSets
+* Services
+* ConfigMaps
+* Secrets
+* Namespaces
+* Ingress
+* Probes
+* Resource management
+* Scaling
+* Application troubleshooting
+* Kubernetes monitoring
+
+---
+
+# 🔄 CI/CD & DevOps
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nexus-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white"/>
+
+</p>
+
+### Typical Pipeline
+
+```text
+Developer
+    │
+    ▼
+   Git
+    │
+    ▼
+  Jenkins
+    │
+    ├── Build
+    │
+    ├── Unit Tests
+    │
+    ├── SonarQube
+    │
+    ├── Nexus
+    │
+    ├── Docker Build
+    │
+    ├── Docker Push
+    │
+    ▼
+ Kubernetes
+    │
+    ▼
+Production
+```
+
+---
+
+# 📊 Monitoring & Observability
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+
+</p>
+
+I work with monitoring concepts such as:
+
+* Metrics collection
+* Prometheus
+* Grafana dashboards
+* Alertmanager
+* Node Exporter
+* Infrastructure monitoring
+* Kubernetes monitoring
+* Application health monitoring
+* Alerting & troubleshooting
+
+---
+
+# 🐧 Linux & Automation
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+</p>
+
+Comfortable working with:
+
+* Linux administration
+* Shell scripting
+* Process management
+* File permissions
+* Networking commands
+* Logs & troubleshooting
+* Service management
+* Cron jobs
+* Bash automation
+* Python scripting
+
+---
+
+# 🚀 Featured DevOps Projects
+
+## 1. 🔥 Jenkins Backup & Disaster Recovery
+
+Automated Jenkins backup and recovery workflow designed to protect Jenkins configuration and critical data.
+
+### Highlights
+
+* Automated backups
+* Scheduled backup execution
+* Remote backup copies
+* Restore automation
+* Disaster recovery workflow
+* Backup verification
+
+**Focus:** Reliability • Automation • Disaster Recovery
+
+---
+
+## 2. ☸️ Kubernetes Monitoring Stack
+
+A Kubernetes monitoring environment using the Prometheus ecosystem.
+
+### Stack
+
+```text
+Kubernetes
+    │
+    ├── Node Exporter
+    │
+    ▼
+ Prometheus
+    │
+    ├── Metrics
+    │
+    ▼
+ Grafana
+    │
+    ▼
+ Dashboards
+```
+
+Includes:
+
+* Prometheus
+* Grafana
+* Alertmanager
+* Node Exporter
+* Kubernetes metrics
+* Infrastructure monitoring
+
+---
+
+## 3. ☁️ AWS Infrastructure with Terraform
+
+Infrastructure automation using Terraform for AWS environments.
+
+### Infrastructure
+
+```text
+AWS
+│
+├── VPC
+│   ├── Subnets
+│   ├── Route Tables
+│   ├── Internet Gateway
+│   └── NAT Gateway
+│
+├── EC2
+│
+├── ALB
+│   └── Target Groups
+│
+├── Auto Scaling
+│
+├── RDS
+│
+└── IAM
+```
+
+**Focus:** Infrastructure as Code • Scalability • Repeatability
+
+---
+
+## 4. 🔄 End-to-End CI/CD Pipeline
+
+A complete CI/CD workflow connecting source code, quality checks, artifact management, containers, and Kubernetes.
+
+```text
+Git
+ ↓
+Jenkins
+ ↓
+Maven
+ ↓
+SonarQube
+ ↓
+Nexus
+ ↓
+Docker
+ ↓
+Container Registry
+ ↓
+Kubernetes
+```
+
+**Focus:** Continuous Integration • Continuous Delivery • Automation
+
+---
+
+# 🧪 AWS Hands-On Lab Journey
+
+I'm actively practicing AWS through real infrastructure scenarios rather than only studying theory.
+
+### Networking
+
+* VPC creation
+* Subnet design
+* Routing
+* Internet/NAT connectivity
+* VPC Peering
+* Transit Gateway
+* Transit Gateway Attachments
+
+### Load Balancing
+
+* Application Load Balancer
+* Target Groups
+* Listener Rules
+* Path-based routing
+* Application health checks
+
+### Storage
+
+* S3
+* S3 storage classes
+* Storage Gateway concepts
+* Backup & disaster recovery scenarios
+
+### Compute
+
+* EC2
+* Auto Scaling
+* Application deployment
+* Load-balanced architectures
+
+The goal is to understand **why an architecture is designed a certain way**, not simply memorize AWS services.
+
+---
+
+# 🧠 DevOps Troubleshooting Mindset
+
+One of the areas I'm actively strengthening is production-style troubleshooting.
+
+When something breaks, my approach is:
+
+```text
+Observe
+  ↓
+Collect Logs & Metrics
+  ↓
+Identify Symptoms
+  ↓
+Isolate the Layer
+  ↓
+Find Root Cause
+  ↓
+Fix
+  ↓
+Validate
+  ↓
+Automate / Prevent
+```
+
+Whether it's:
+
+* 🚨 Kubernetes pod failures
+* 🌐 Networking problems
+* 🔐 IAM permission issues
+* 🐳 Container failures
+* 🔄 CI/CD pipeline failures
+* ☁️ AWS connectivity issues
+* 📊 Monitoring alerts
+
+I focus on understanding the **root cause**, not just applying a temporary fix.
+
+---
+
+# 🛠️ Tech Stack
 
 ### Cloud
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+`AWS`
 
-### DevOps
+### Infrastructure as Code
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+`Terraform` `Ansible`
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+### Containers
 
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
+`Docker` `Kubernetes`
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+### CI/CD
 
-![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible)
+`Jenkins` `GitHub Actions`
+
+### Build & Code Quality
+
+`Maven` `SonarQube` `Nexus`
 
 ### Monitoring
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
+`Prometheus` `Grafana` `Alertmanager`
 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+### Operating Systems
 
-### Languages
+`Linux`
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+### Scripting
 
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
+`Bash` `Python`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+### Version Control
 
----
-
-# 💼 Featured Projects
-
-## 🚀 Jenkins Backup & Disaster Recovery
-
-Automated Jenkins backup solution with:
-
-- Daily Backup
-- Remote Backup Copy
-- Restore Automation
-- Disaster Recovery
+`Git` `GitHub`
 
 ---
 
-## ☸ Kubernetes Monitoring Stack
+# 📚 Continuous Learning
 
-Production-ready monitoring stack using
+I'm currently focused on becoming stronger across the complete DevOps lifecycle:
 
-- Prometheus
-- Grafana
-- Alertmanager
-- Node Exporter
+```text
+Linux
+  ↓
+Networking
+  ↓
+AWS
+  ↓
+Terraform
+  ↓
+Docker
+  ↓
+Kubernetes
+  ↓
+CI/CD
+  ↓
+Monitoring
+  ↓
+Security
+  ↓
+DevSecOps
+  ↓
+Cloud Architecture
+```
 
----
+My approach is simple:
 
-## 🚀 AWS Infrastructure Automation
-
-Provision complete AWS infrastructure using Terraform
-
-- VPC
-- EC2
-- ALB
-- Auto Scaling
-- RDS
-- IAM
-
----
-
-## 🔥 CI/CD Pipeline
-
-Complete DevOps pipeline using
-
-- Git
-- Maven
-- SonarQube
-- Nexus
-- Jenkins
-- Docker
-- Kubernetes
+> **Learn → Build → Break → Troubleshoot → Automate → Repeat**
 
 ---
 
@@ -134,9 +528,9 @@ Complete DevOps pipeline using
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -146,17 +540,17 @@ Complete DevOps pipeline using
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Activity Graph
+# 📊 Contribution Activity
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -166,29 +560,67 @@ Complete DevOps pipeline using
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"/>
 
 </p>
 
 ---
 
-# 📝 Latest Medium Articles
+# ✍️ Writing & Knowledge Sharing
 
-- 🚀 Jenkins Backup & Restore Guide
-- ☸ Kubernetes Troubleshooting
-- ☁ Terraform Best Practices
-- 🚀 Docker Security Best Practices
+I enjoy documenting what I learn and turning practical DevOps problems into reusable knowledge.
+
+Topics I write and learn about include:
+
+* 🚀 Jenkins
+* ☸️ Kubernetes
+* ☁️ AWS
+* 🏗️ Terraform
+* 🐳 Docker
+* 🔐 DevSecOps
+* 📊 Monitoring
+* 🛠️ Troubleshooting
+
+You can find my technical content on **Medium**.
 
 ---
 
-# 💡 Quote
+# 🌐 Connect With Me
 
-> "Automation is good, so long as you know exactly where to put the machine."
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shivamupadhya1/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@shivamupadhyay1382">
+<img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="mailto:shivamupadhya100@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💭 DevOps Philosophy
+
+<p align="center">
+
+### "Don't just run the infrastructure — understand it, automate it, monitor it, and make it better."
+
+</p>
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=blue&style=flat"/>
+⭐ <b>If you find something useful here, feel free to star a repository.</b>
+
+<br><br>
+
+<b>☁️ Cloud • ⚙️ Automation • ☸️ Kubernetes • 🚀 DevOps</b>
 
 </p>
