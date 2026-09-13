@@ -13,7 +13,25 @@
 </p>
 
 ---
+# 🌐 Connect With Me
 
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shivamupadhya1/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@shivamupadhyay1382">
+<img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="mailto:shivamupadhya100@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
 ## 🧑‍💻 About Me
 
 I'm a **DevOps Engineer with 2.5+ years of experience** focused on building, automating, deploying, and monitoring cloud infrastructure.
@@ -430,26 +448,6 @@ Topics I write and learn about include:
 * 🛠️ Troubleshooting
 
 You can find my technical content on **Medium**.
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/shivamupadhya1/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://medium.com/@shivamupadhyay1382">
-<img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-
-<a href="mailto:shivamupadhya100@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
